@@ -1,0 +1,53 @@
+#+TAGS: DE(d) NL(n) ES(e) PT(p) FR(f)
+* Dictionaries
+** [DE] https://www.duden.de
+** [NL] https://www.vandale.nl
+** [ES] http://dle.rae.es
+** [PT] http://www.iah.com.br/sp/  Dicionário Houaiss da Língua Portuguesa
+** [FR] https://www.larousse.fr
+* Vocabulary
+** A
+** B
+** C
+*** cabbage
+**** [DE] der Kohl
+**** [NL] de kool; kolen
+**** [ES] la col; el repollo
+**** [PT] o repolho
+**** [FR]
+*** charcoal
+**** [DE] die Holzkohle
+**** [NL] de houtskool, kool; houtskolen, kolen
+**** [ES] el carbón vegetal
+**** [PT] o carvão vegetal
+**** [FR] le charbon de bois
+*** coal
+**** [DE] die Kohle
+**** [NL] de steenkool; steenkolen; de kool
+**** [ES] el carbón
+**** [PT] o carvão mineral
+**** [FR] le charbon
+** D 
+** E
+** F
+** G
+** H
+** I
+** J
+** K
+** L
+** M
+** N
+** O
+** P
+** R
+** S
+** T
+** U
+** V
+** W
+** X
+** Y
+** Z
+* TO DO
+** 
