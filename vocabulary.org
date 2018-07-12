@@ -1,4 +1,5 @@
-#+TAGS: DE(d) NL(n) ES(e) PT(p) FR(f)
+#+INPUT
+#+TAGS: NOUN VERB ADJ PRON ADVERB
 * Dictionaries
 ** [DE] https://www.duden.de
 ** [NL] https://www.vandale.nl
@@ -7,31 +8,55 @@
 ** [FR] https://www.larousse.fr
 * Vocabulary
 ** A
+*** aardvark
+**** [DE] Erdferkel, -n, das
+**** [NL] aardvarken, -s, het
+**** [ES] cerdo hormiguero, el
+**** [PT] porco-da-terra, o
+**** [FR] aardvark, le 
 ** B
+*** baby                                                               :NOUN:
+**** [DE] Baby, das
+**** [NL] baby, de
+**** [ES] bebé, el
+**** [PT] bebê, o
+**** [FR] bébé, le
 ** C
 *** cabbage
-**** [DE] der Kohl
-**** [NL] de kool; kolen
-**** [ES] la col; el repollo
-**** [PT] o repolho
+**** [DE] Kohl, der;
+**** [NL] kool, de; kolen
+**** [ES] col, la; repollo, el
+**** [PT] repolho, o
 **** [FR]
 *** charcoal
-**** [DE] die Holzkohle
-**** [NL] de houtskool, kool; houtskolen, kolen
-**** [ES] el carbón vegetal
-**** [PT] o carvão vegetal
-**** [FR] le charbon de bois
+**** [DE] Holzkohle, die
+**** [NL] houtskool, de; kool de; houtskolen, kolen
+**** [ES] carbón vegetal, el
+**** [PT] carvão vegetal, o
+**** [FR] charbon de bois, le
 *** coal
-**** [DE] die Kohle
-**** [NL] de steenkool; steenkolen; de kool
-**** [ES] el carbón
-**** [PT] o carvão mineral
-**** [FR] le charbon
+**** [DE] Kohle, die
+**** [NL] steenkool, de; steenkolen; kool, de
+**** [ES] carbón, el
+**** [PT] carvão mineral, o
+**** [FR] charbon, le
 ** D 
 ** E
+*** eye                                                                :NOUN:
+**** [DE] Auge, -n, das
+**** [NL] oog, het; de ogen
+**** [ES] ojo, el
+**** [PT] olho, o
+**** [FR] oeil, le; les yeux
 ** F
 ** G
 ** H
+*** hat                                                                :NOUN:
+**** [DE] Hut, der; Hüte
+**** [NL] hoed, de
+**** [ES] sombrero, el
+**** [PT] chapéu, o
+**** [FR] chapeau, le; chapeaux
 ** I
 ** J
 ** K
@@ -42,6 +67,24 @@
 ** P
 ** R
 ** S
+*** shark                                                              :NOUN:
+**** [DE] Haifisch, -e, der
+**** [NL] vis, de; vissen
+**** [ES] tiburón, el
+**** [PT] tubarão, o
+**** [FR] requin, le
+*** smile                                                              :NOUN:
+**** [DE] Lächeln, das;
+**** [NL] glimlach, de
+**** [ES] sonrisa, la
+**** [PT] sorriso, o
+**** [FR] sourire, le
+*** smile                                                              :VERB:
+**** [DE] lächeln
+**** [NL] glimlachen; een glimlach tonen
+**** [ES] sonrir
+**** [PT] sorrir
+**** [FR] sourir
 ** T
 ** U
 ** V
