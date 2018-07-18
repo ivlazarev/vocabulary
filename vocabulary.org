@@ -8,12 +8,18 @@
 ** [FR] https://www.larousse.fr
 * Vocabulary
 ** A
-*** aardvark
+*** aardvark                                                           :NOUN:
 **** [DE] Erdferkel, -n, das
 **** [NL] aardvarken, -s, het
 **** [ES] cerdo hormiguero, el
 **** [PT] porco-da-terra, o
 **** [FR] aardvark, le 
+*** adventure
+**** [DE] Abenteuer, das
+**** [NL] avontuur, het (meervoud: avonturen)
+**** [ES] aventura, la; de las aventuras, las aventuras
+**** [PT] aventura, a
+**** [FR] aventure, la
 ** B
 *** baby                                                               :NOUN:
 **** [DE] Baby, das
@@ -22,19 +28,19 @@
 **** [PT] bebê, o
 **** [FR] bébé, le
 ** C
-*** cabbage
+*** cabbage                                                            :NOUN:
 **** [DE] Kohl, der;
 **** [NL] kool, de; kolen
 **** [ES] col, la; repollo, el
 **** [PT] repolho, o
 **** [FR]
-*** charcoal
+*** charcoal                                                           :NOUN:
 **** [DE] Holzkohle, die
 **** [NL] houtskool, de; kool de; houtskolen, kolen
 **** [ES] carbón vegetal, el
 **** [PT] carvão vegetal, o
 **** [FR] charbon de bois, le
-*** coal
+*** coal                                                               :NOUN:
 **** [DE] Kohle, die
 **** [NL] steenkool, de; steenkolen; kool, de
 **** [ES] carbón, el
@@ -94,3 +100,4 @@
 ** Z
 * TO DO
 ** 
+   
