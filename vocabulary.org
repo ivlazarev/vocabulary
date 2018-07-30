@@ -34,6 +34,12 @@
 **** [ES] col, la; repollo, el
 **** [PT] repolho, o
 **** [FR]
+*** cermet                                                             :NOUN:
+**** [DE] Cermets, die (pl.); im Internet kommt nur im Plural vor.
+**** [NL] cermets, de (pl); 
+**** [ES] cermet, el; 
+**** [PT] cermet, o;
+**** [FR] cermet, le;
 *** charcoal                                                           :NOUN:
 **** [DE] Holzkohle, die
 **** [NL] houtskool, de; kool de; houtskolen, kolen
@@ -64,6 +70,12 @@
 **** [PT] chapéu, o
 **** [FR] chapeau, le; chapeaux
 ** I
+*** Internet, the                                                      :NOUN:
+**** [DE] Internet, das; im Internet;
+**** [NL] Internet, het; op het Internet
+**** [ES] Internet, el; en Internet;
+**** [PT] Internet, a; na Internet;
+**** [FR] Internet, le; sur Internet;
 ** J
 ** K
 ** L
