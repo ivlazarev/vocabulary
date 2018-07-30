@@ -70,8 +70,20 @@
 ** M
 ** N
 ** O
+*** opera                                                              :NOUN:
+**** [DE] Oper, die; Opera, die (italienische Bezeichnung für Oper)
+**** [NL] opera, de; meervoud: opera's
+**** [ES] ópera, la;
+**** [PT] ópera, a;
+**** [FR] opéra, le; l'opéra
 ** P
 ** R
+*** radio                                                              :NOUN:
+**** [DE] Radio, das (Gerät); Hörfunk der; Rundfunk, der;
+**** [NL] radio, de;
+**** [ES] radio, la;
+**** [PT] rádio, o;
+**** [FR] radio, la;
 ** S
 *** shark                                                              :NOUN:
 **** [DE] Haifisch, -e, der
